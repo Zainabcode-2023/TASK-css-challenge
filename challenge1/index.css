@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  font-family: serifBebas Neue;
+  font-size: 50px;
+}
+
+.container {
+  justify-content: center;
+  text-align: center;
+  margin: 12px;
+  color: #ddf;
+}
